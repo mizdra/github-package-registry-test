@@ -13,10 +13,10 @@ Boilerplate for ts-node.
 
 ```bash
 ## Clone boilerplate
-git clone git@github.com:mizdra/ts-node-skeleton.git app_name
+git clone git@github.com:mizdra/ts-node-skeleton.git github-package-registry-test
 
 ## If project already exist...
-cd app_name
+cd github-package-registry-test
 wget -O - https://github.com/mizdra/ts-node-skeleton/archive/master.tar.gz | tar xzvf - --strip=1
 
 ## Init project
@@ -30,9 +30,9 @@ yarn dev
 
 MIT
 
-# app_name
+# github-package-registry-test
 
-app_description
+The test project for GitHub Package Registry 
 
 ## How to dev
 
