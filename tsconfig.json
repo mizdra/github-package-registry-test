@@ -1,0 +1,29 @@
+{
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    /* Basic Options */
+    "outDir": "./dist",
+    "target": "es2020",
+    "lib": ["es2020"],
+    "declaration": true,
+    // "jsx": "react",
+
+    /* Module Options */
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+
+    /* Strict Type-Checking Options */
+    "strict": true,
+
+    /* Helper Options */
+    // "noEmitHelpers": true,
+    // "importHelpers": true,
+
+    /* Debug Options */
+    "sourceMap": true,
+    "pretty": true,
+    "locale": "ja"
+  }
+}
