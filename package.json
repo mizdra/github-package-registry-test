@@ -1,5 +1,5 @@
 {
-  "name": "github-package-registry-test",
+  "name": "@mizdra/github-package-registry-test",
   "description": "The test project for GitHub Package Registry ",
   "version": "0.0.0",
   "publishConfig": {
