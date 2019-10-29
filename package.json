@@ -6,6 +6,10 @@
     "registry": "https://npm.pkg.github.com/",
     "access": "public"
   },
+  "files": [
+    "dist/",
+    "src/"
+  ],
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "https://github.com/mizdra/github-package-registry-test.git",
